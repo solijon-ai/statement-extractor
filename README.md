@@ -48,10 +48,10 @@ Output:
 ```
   source        : sample_statement.pdf  [text layer]
   transactions  : 34
-  money in      : 18937.42
-  money out     : -518.16
+  money in      : 27105.13
+  money out     : -8685.87
   reconciliation: PASS (expected 30899.81, reported 30899.81)
-  tokens        : 1842 in / 3106 out
+  tokens        : <depends on document length>
   written       : output/sample_statement.json, output/sample_statement.csv
 ```
 
